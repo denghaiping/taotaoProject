@@ -1,0 +1,2 @@
+${hello}
+${student.name}

@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [17/Oct/2018:09:24:11 +0800] "GET /search.html?q=iphone HTTP/1.1" 200 65208 http-bio-8085-exec-1 2273
+0:0:0:0:0:0:0:1 - - [17/Oct/2018:09:24:12 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8085-exec-4 3
+0:0:0:0:0:0:0:1 - - [17/Oct/2018:09:24:56 +0800] "GET /search.html?q=iphone HTTP/1.1" 200 65208 http-bio-8085-exec-5 123
+0:0:0:0:0:0:0:1 - - [17/Oct/2018:09:29:27 +0800] "GET /search.html?q=%E7%BE%8E%E7%9A%84 HTTP/1.1" 200 20526 http-bio-8085-exec-9 119
+0:0:0:0:0:0:0:1 - - [17/Oct/2018:09:46:54 +0800] "GET /search.html?q=%E8%8D%A3%E8%80%80Note HTTP/1.1" 200 65406 http-bio-8085-exec-2 1117
+0:0:0:0:0:0:0:1 - - [17/Oct/2018:09:47:25 +0800] "GET /search.html?q=%E8%8D%A3%E8%80%80Note HTTP/1.1" 200 65406 http-bio-8085-exec-5 510
+0:0:0:0:0:0:0:1 - - [17/Oct/2018:09:51:14 +0800] "GET /search.html?q=note HTTP/1.1" 200 52520 http-bio-8085-exec-9 277
+0:0:0:0:0:0:0:1 - - [17/Oct/2018:09:51:24 +0800] "GET /search.html?q=%E8%8D%A3%E8%80%80 HTTP/1.1" 200 40707 http-bio-8085-exec-2 227
+0:0:0:0:0:0:0:1 - - [17/Oct/2018:09:51:29 +0800] "GET /search.html?q=%E8%8D%A3%E8%80%80note HTTP/1.1" 200 65406 http-bio-8085-exec-6 109
